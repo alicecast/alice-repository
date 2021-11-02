@@ -1,0 +1,59 @@
+* {
+	box-sizing: border-box;
+}
+h1 {
+	margin: auto;
+	padding: 20px;
+	text-align: center;
+	font-family: Abel, sans-serif: 
+}
+
+nav {
+	height: 80px;
+}
+svg {
+	padding: 20px;
+}
+.card_article {
+	height: 100%;
+}
+.card_homepage {
+	height: 100%;
+}
+.foto_balla {
+	height: 500px;
+	margin: auto;
+}
+.bottoni_discipline {
+	margin: auto;
+}
+#abstract {
+	padding: 30px 10px;
+}
+#breadcrumb_persona {
+	padding: 5px;
+}
+#container_aside {
+	max-width: 60%;
+	margin-top: 20px;
+	padding: 5px;
+}
+#descrizione {
+	padding: 10px;
+	width: 80%;
+}
+#div_descrizione {
+	margin: auto;
+}
+#gruppo_bottoni_discipline {
+	margin: auto;
+}
+#p_bottoni_discipline {
+	text-align: justify;
+}
+#raffina_persona {
+	margin-top: 60px;
+}
+#torna_su {
+	margin: 20px;
+}
