@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<mp:metadata xmlns:mp="http://example.org/MyProject/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/">
+
+	<!-- collezione del mio progetto-->
+	<collection xml:id="FutIt">
+		<!-- collezione dei manifesti-->
+		<library xml:id="ManFut">
+			<!-- manifesto in questione, versione digitalizzata-->
+			<item xml:id="CC68D" n="68" type="digitalized">
+				<!-- informazioni base identificative-->
+				<dc:title>IL VESTITO ANTINEUTRALE. Manifesto futurista.</dc:title>
+				<dc:creator xsi:type="mp:viaf" mp:ref="https://viaf.org/viaf/29596654">Giacomo Balla</dc:creator>
+				<dc:identifier>http://futurismo.accademiadellacrusca.org/scheda.asp?idscheda=45</dc:identifier>
+
+				<!-- informazioni sull'edizione-->
+				<dc:publisher >Accademia della Crusca</dc:publisher>
+				<dc:publisher>Fondazione Memofonte</dc:publisher>
+				<dc:contributor>Massimiliano Bertelli</dc:contributor>
+				<dc:contributor>Alice Castelnuovo</dc:contributor>
+				<dc:date type="last_update">22 ottobre 2017</dc:date>
+				<dc:coverage type="spatial">Bologna</dc:coverage>
+				<dc:rights>©2017-2018 Accademia della Crusca e Fondazione Memofonte - Tutti i diritti riservati</dc:rights>
+
+				<!-- informazioni sul supporto -->
+				<dc:type>Testo</dc:type>
+				<dc:format>still image</dc:format>
+				<dc:language>Italiano</dc:language>
+				
+				<!-- informazioni sul contenuto -->
+				<dc:description>Versione digitalizzata del manifesto scritto da Giacomo Balla nel 1914. Questo testo è un proclama del Movimento Futurista contro alla moda di vestire passatista e borghese. In questo brano si afferma, al contrario, la volontà di creare un nuovo universo, anche stilistico, fatto di forza e dinamismo. Il testo è suddiviso in paragrafi e corredato da immagini relative al suo contenuto.</dc:description>
+				<dc:subject>moda, futurismo, Balla, manifesti, modificanti</dc:subject>
+
+				<dc:source>
+					<!-- informazioni base identificative-->
+					<dc:title>IL VESTITO ANTINEUTRALE. Manifesto futurista.</dc:title>
+					<dc:creator>Giacomo Balla</dc:creator>
+
+					<!-- informazioni sull'edizione-->
+					<dc:publisher>Direzione del Movimento Futurista</dc:publisher>
+					<dc:date>11 settembre 1914</dc:date>
+					<dc:coverage type="spacial">Milano</dc:coverage>
+
+					<!-- informazioni sul supporto-->
+					<dc:type>Testo</dc:type>
+					<dc:format>Manifesto</dc:format>
+					<dc:extent>4 pagine</dc:extent>
+					<dcterms:extent>33x24</dcterms:extent>
+					<dc:language>Italiano</dc:language>
+
+					<!-- informazioni sul contenuto -->
+					<dc:description>Manifesto scritto da Giacomo Balla nel 1914. Questo testo è un proclama del Movimento Futurista contro alla moda di vestire passatista e borghese. In questo brano si afferma, al contrario, la volontà di creare un nuovo universo, anche stilistico, fatto di forza e dinamismo. Il testo è suddiviso in paragrafi e corredato da immagini relative al suo contenuto.</dc:description>
+					<dc:subject>moda, futurismo, Balla, manifesti, modificanti</dc:subject>
+					</dc:source>
+			</item>
+		</library>
+	</collection>
+</mp:metadata>

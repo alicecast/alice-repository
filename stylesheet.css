@@ -1,0 +1,147 @@
+* {
+	box-sizing: border-box;
+}
+
+/* selettori */
+footer {
+	background-color: #001a66;
+	margin-top: 20px;
+}
+h1 {
+	margin: auto;
+	padding: 20px;
+	text-align: center;
+	font-family: Abel, sans-serif; 
+	color: #001a66;
+}
+nav {
+	height: 80px;
+}
+svg {
+	padding: 20px;
+}
+
+/* class */
+
+.bottoni_discipline {
+	margin: auto;
+}
+.card_article {
+	height: 100%;
+}
+.card_homepage {
+	height: 100%;
+}
+.footer_p {
+	color: #0066ff;
+}
+.foto_balla {
+	height: 500px;
+	margin: auto;
+}
+.home_carosello_img {
+	height: 700px;
+}
+.persona_aside_titolo {
+	font-size: 18px;
+	margin-top: 15px;
+}
+
+/* id */
+#abstract {
+	padding: 30px 80px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	text-align: justify;
+	border: solid 3px #e6b800;
+}
+#breadcrumb_persona {
+	padding: 5px;
+}
+
+#container_aside {
+	max-width: 60%;
+	margin-top: 20px;
+	padding: 5px;
+}
+#contatti {
+	list-style-type: none;
+}
+#copyright {
+	padding: 20px;
+}
+#descrizione {
+	padding: 10px;
+	width: 80%;
+}
+#div_descrizione {
+	margin: auto;
+}
+#footer_social {
+	text-align: center;
+}
+#gruppo_bottoni_discipline {
+	margin-left: 5px;
+}
+#iframe_audio {
+	height: 300px;
+}
+#item_corpo_aside {
+	margin:auto;
+}
+#item_corpo_centrale {
+	border-top: solid 3px #001a66;
+	border-bottom: solid 3px #001a66;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	padding: 20px;
+	background-color: #ccffcc;
+}
+#item_titolo {
+	background-color: #00b300;
+	margin-bottom: 30px;
+	margin-top: 30px;
+}
+#lista_titolo {
+	background-color: #ffcc00;
+	margin-bottom: 30px;
+	margin-top: 30px;
+}
+#lista_filtri {
+	border-right: solid 3px #001a66;
+	padding: 10px;
+}
+#lista_filtri_1 {
+	padding: 10px;
+}
+#main_navbar {
+	background-color: #001a66;
+	height: 100px;
+}
+#novità {
+	border: solid 3px #001a66;
+	margin-bottom: 50px;
+	padding: 20px 60px;
+}
+#p_bottoni_discipline {
+	text-align: justify;
+	margin-top: 10px;
+	padding: 8px;
+}
+#persona_corpo {
+	border-right: solid 3px #001a66;
+	border-left: solid 3px #001a66;
+}
+#persona_titolo {
+	background-color: #b33c00;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+#raffina_persona {
+	margin-top: 60px;
+}
+#torna_su {
+	margin-left: 200px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}

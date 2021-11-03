@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>IL VESTITO ANTINEUTRALE. Versione digitalizzata.</title>
+				<subtitle>Manifesto Futurista.</subtitle>
+				<author>Giacomo Balla</author>
+				<sponsor>Accademia della Crusca</sponsor>
+				<sponsor>Fondazione Memofonte</sponsor>
+				<sponsor>ECRF - Fondazione Cassa di Risparmio di Firenze</sponsor>
+				<respStmt>
+					<resp>trascrizione del manifesto</resp>
+					<name xml:id="MBe">Massimiliano Bertelli</name>
+				</respStmt>
+				<respStmt>
+					<resp>digitalizzazione del manifesto</resp>
+					<name xml:id="SM">Susanna Masi</name>
+				</respStmt>
+				<respStmt>
+					<resp>coordinamento</resp>
+					<name xml:id="DL">Donata Levi</name>
+					<name xml:id="NM">Nicoletta Maraschio</name>
+				</respStmt>
+				<respStmt>
+					<resp>supervisione scientifica</resp>
+					<name xml:id="BC">Barbara Cinelli</name>
+					<name xml:id="SS">Stefania Stefanelli</name>
+				</respStmt>
+				<respStmt>
+					<resp>codifica TEI</resp>
+					<name xml:id="AC">Alice Castelnuovo</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Accademia della Crusca</authority>
+				<authority>Fondazione Memofonte</authority>
+				<publisher>
+					<name>Accademia della Crusca</name>
+					<name>Fondazione Memofonte</name>
+					<date when="2017-10-22" calendar="Gregorian">22 October 2017</date>
+				</publisher>
+				<address>
+					<name>Accademia della Crusca</name>
+					<street>via del Castello, 46</street>
+					<postcode>50141</postcode>
+					<name type="city">Firenze</name>
+					<email type="normal">segreteria@crusca.fi.it</email>
+					<email type="PEC">accademiadellacrusca@pcert.postecert.it</email>
+				</address>
+				<address>
+					<name>Fondazione Memofonte</name>
+					<street>Via de’ Coverelli, 2/4</street>
+					<postcode>50125</postcode>
+					<name type="city">Firenze</name>
+					<email type="normal">info@memofonte.it </email>
+					<email type="PEC">fondazionememofonte@legalmail.it</email>
+				</address>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl version="original">
+					<title>IL VESTITO ANTINEUTRALE. Manifesto futurista.</title>
+					<author>Giacomo Balla</author>
+					<date when="1914-09-11" calendar="Gregorian">11 settembre 1914</date>
+					<publisher>Direzione del movimento futurista</publisher>
+					<pubPlace>Milan</pubPlace>
+					<extent>4 pagine</extent>
+				</bibl>
+				<bibl version="catCaruso">
+					<title>Manifesti e documenti teorici del futurismo (1909-1944)</title>
+					<respStmt>
+						<resp>curatore</resp>
+						<name xml:id="LC">Luciano Caruso</name>
+					</respStmt>
+					<date when="1990-01-01" calendar="Gregorian">1 gennaio 1990</date>
+					<publisher>SPES</publisher>
+					<pubPlace>Firenze</pubPlace>
+					<extent>4 voll. 2000 pp. ill</extent>
+				</bibl>
+			</sourceDesc>
+			<editionStmt>
+				<edition>
+					<p>Digitaliazzazione dei manifesti futuristi appartenenti al catalogo curato da Luciano Caruso per le edizioni SPES.</p>
+					<respStmt>
+						<!-- coordinamento -->
+						<resp name="#DL">coordinamento</resp>
+						<resp name="#NM">coordinamento</resp>
+					
+						<!-- supervisione scientifica -->
+						<resp name="#BC">supervisione scientifica</resp>
+						<resp name="#SS">supervisione scientifica</resp>
+
+						<!-- schedatura , marcatura, trascrizione-->
+						<resp name="#MBe">schedatura dei manifesti, marcatura e predisposizione dei lemmari, trascrizione dei manifesti</resp>
+
+						<!-- digitalizzazione -->
+						<resp name="#SM">digitalizzazione dei manifesti</resp>
+					</respStmt>
+					<respStmt>
+						<!-- coordinamento informatico -->
+						<resp>coordinamento informatico</resp>
+						<name xml:id="MB">Marco Biffi</name>
+					</respStmt>
+					<respStmt>
+						<!-- schedatura , marcatura, trascrizione-->
+						<resp>schedatura dei manifesti, marcatura e predisposizione dei lemmari, trascrizione dei manifesti</resp>
+						<name xml:id="GR">Giovanni Rubino</name>
+					</respStmt>
+					<respStmt>
+						<!-- informatico -->
+						<resp>Progetto informatico e sviluppo banca dati</resp>
+						<name xml:id="GS">Giovanni Salucci</name>
+					</respStmt>
+					<date when="2017 - 2018" calendar="Gregorian">2017 - 2018</date>
+				</edition>
+			</editionStmt>
+		</fileDesc>
+	</teiHeader>
+
+	<text>
+		<front>
+			<docTitle>
+				<titlePart type="main">Il VESTITO ANTINEUTRALE</titlePart>>
+				<titlePart type="sub">Manifesto futurista</titlePart>
+			</docTitle>
+			<epigraph>
+				<quote>Glorifichiamo la guerra, sola igiene del mondo.</quote>
+				<name type="person">Marinetti.</name>
+				<source>1° Manifesto del Futurismo</source>
+				<date when="1910-02-20" calendar="Gregorian"> - 20 Febbraio 1910)</date>
+			</epigraph>
+			<epigraph>
+				<said>Viva Asinari di Bernezzo!</said>
+				<name type="person">Marinetti.</name>
+				<event>1° Serata futurista</event>
+				<place> - Teatro Lirico, Milano,</place>
+				<date when="1910-02" calendar="Gregorian">Febbraio 1910)</date>
+			</epigraph>
+		</front>
+		<body>
+			<div type="introduction">
+				<p>L'umanità si vestì sempre di <hi><desc resp="#AC" xml:id="cn">connotazione negativa</desc>quiete</hi>, di <hi desc="cn">paura</hi>, di <hi desc="cn">cautela</hi> o d' <hi desc="cn">indecisione</hi>, portò sempre il lutto, o il piviale, o il mantello. Il corpo dell'uomo fu sempre diminuito da sfumature e da tinte <hi desc="cn">neutre</hi>, avvilito dal <name type="color">nero</name>, soffocato da cinture, imprigionato da panneggiamenti.</p>
+				<p>Fino ad oggi gli uomini usarono abiti di colori e forme statiche, cioè drappeggiati, solenni, gravi, incomodi e sacerdotali. Erano espressioni di timidezza, di malinconia e di <hi desc="cn">schiavitù</hi>, negazione della vita muscolare, che soffocava in un passatismo anti-igienico di stoffe troppo pesanti e di mezze <name type="color">tinte tediose, effeminate o decadenti.</name> Tonalità e ritmi di <hi desc="cn">pace desolante</hi>, funeraria e deprimente.</p></div>
+			<div type="section" n="1">
+				<head>Oggi vogliamo abolire:</head>
+				<list rend="numbered">
+					<item n="1">1.- Tutte le <name type="color">tinte <hi desc="cn">neutre</hi></name>, <emph>« carine »</emph>, sbiadite, <emph rendition="italic">fantasia</emph>, semioscure e umilianti.</item>
+					<item n="2">2.- Tutte le tinte e le foggie pedanti, professorali e teutoniche. I disegni a righe, a quadretti, a <hi desc="cn">puntini diplomatici</hi>.</item>
+					<item n="3">3.- I vestiti da lutto, nemmeno adatti per i becchini. Le morti eroiche non devono essere compiante, ma ricordate con vestiti <name type="color">rossi.</name></item>
+					<item n="4">4.- L'equilibrio <hi desc="cn">mediocrista</hi>, il cosidetto buon gusto e la cosidetta armonia di tinte e di forme, che frenano gli entusiasmi e rallentano il passo.</item>
+					<item n="5">5.- La simmetria nel taglio, le linee <hi desc="cn">statiche</hi>, che stancano, deprimono, contristano, legano i muscoli; l'uniformità di goffi risvolti e tutte le cincischiature. I bottoni inutili. I colletti e i polsini inamidati.</item></list>
+				<p>Noi futuristi vogliamo liberare la nostra razza da ogni neutralità, dall'indecisione paurosa e quietista, del pessimismo negatore e dell'inerzia</p>
+				<div>
+					<figure>
+						<graphic url="immagini/vestitoMarinetti.jpg"/>
+						<figDesc>Vestito <name type="color">bianco</name> - <name type="color">rosso</name> - <name type="color">verde</name> del <name type="profession">parolibero</name> <name type="person">Marinetti.</name> (Mattino)</figDesc>
+					</figure>
+				</div>
+				<pb n="2"/> 
+				<p>nostalgica, romantica e rammollente. Noi vogliamo colorare l'<name type="place">Italia</name> di audacia e di rischio futurista, dare finalmente agl'italiani degli abiti bellicosi e giocondi.</p></div>
+			<div type="section" n="2">
+				<head>Gli abiti futuristi saranno dunque:</head>
+					<list rend="numbered">
+						<item n="1">1.- <hi><desc xml:id="cp">connotazione positiva</desc>Aggressivi</hi>, tali da moltiplicare il coraggio dei forti e da sconvolgere la sensibilità dei vili.</item>
+						<div>
+							<figure>
+								<graphic url="immagini/vestito_cangiullo.jpg"/>
+								<figDesc>Vestito <name type="color">bianco</name> - <name type="color">rosso</name> - <name type="color">bleu</name> del <name type="profession">parolibero</name> futurista <name type="person">Cangiullo.</name> (Pomeriggio)</figDesc>
+							</figure>
+						</div>
+							<item n="2">2.- <hi desc="cp">Agilizzanti</hi>, cioè tali da aumentare la flessuosità del corpo e da favorirne lo slancio nella lotta, nel passo di corsa o di carica;</item>
+							<item n="3">3.- <hi desc="cp">Dinamici</hi>, pei disegni e i colori dinamici delle stoffe, (triangoli, coni, spirali,ellissi circoli) che ispirino l'amore del pericolo, della velocità e dell'assalto, l'odio della pace e dell'immobilità.</item>
+							<item n="4">4.- Semplici e comodi, cioè facili a mettersi e a togliersi, che ben si prestino per puntare il fucile, guadare i fiumi e lanciarsi a nuoto.</item>
+							<item n="5">5.- <hi desc="cp">Igienici</hi>, cioè tagliati in modo che ogni punto della pelle possa respirare nelle lunghe marcie e nelle salite faticose.</item>
+							<item n="6">6.- <hi desc="cp">Gioiosi</hi>. Stoffe di <name type="color">colori e iridescenze entusiasmanti.</name> Impiegare i colori <name type="color"><emph rendition="italic">muscolari</emph></name> <name type="color">violettissimi,</name> <name type="color">rossissimi,</name> <name type="color">turchinissimi,</name> <name type="color">verdissimi,</name> <name type="color">gialloni,</name> <name type="color">aranciooooni,</name> <name type="color">vermiglioni.</name></item>
+							<item n="7">7.- <hi desc="cp">Illuminanti</hi>. Stoffe fosforescenti, che possono accendere la temerità in un'assemblea di paurosi, spandere luce intorno quando piove o correggere il <name type="color">grigiore</name> del crepuscolo nelle vie e nei nervi.</item>
+							<item n="8">8.- <hi desc="cp">Volitivi.</hi> Disegni e colori violenti, imperiosi e impetuosi come comandi sul campo di battaglia.</item>
+							<item n="9">9.- <hi desc="cp">Asimmetrici.</hi> Per esempio, l'estremità delle maniche e il davanti della giacca saranno a destra rotondi, a sinistra quadrati. Geniali controattacchi di linee.</item>
+							<item n="10">10.- <hi desc="cp">Di breve durata,</hi> per rinnovare incessantemente il godimento e l'animazione irruente del corpo.</item>
+							<item n="11">11 - <hi desc="cp">Variabili,</hi> per mezzo dei <hi desc="cp">modificanti</hi> (applicazioni di stoffa, di ampiezza, spessori, disegni e colori diversi) da disporre quando si voglia e dove si voglia, su qualsiasi punto del vestito, mediante bottoni pneumatici. Ognuno può così inventare ad ogni momento un nuovo vestito. Il modificante sarà prepotente, urtante, stonante, decisivo, guerresco, ecc.</item></list></div>
+				<div type="conclusion"><p>Il cappello futurista sarà asimmetrico e di <name type="color">colori aggressivi e festosi.</name> Le scarpe futuriste saranno dinamiche, diverse l' una dall'altra, per forma e per colore, atte a prendere allegramente a calci tutti i neutralisti.</p>
+				<p><hi>Sarà brutalmente esclusa l'unione del <name type="color">giallo</name> col <name type="color">nero.</name></hi></p>
+				<p>Si pensa e si agisce come si veste. <hi>Poichè la neutralità è la sintesi di tutti i</hi></p>
+				<pb n="3"/>
+				<p><hi> passatismi,</hi> noi futuristi sbandieriamo oggi questi vestiti antineutrali, cioè festosamente bellicosi.</p>
+				<p><hi>Soltanto i podagrosi ci disapproveranno.</hi></p>
+				<p>Tutta la gioventù italiana riconoscerà in noi, che li portiamo, le sue viventi bandiere futuriste per la nostra grande guerra, <hi>necessaria</hi>, <hi rendition="uppercase">urgente.</hi></p>
+				<p>Se il Governo non deporrà il suo vestito passatista di paura e d'indecisione, noi <hi>raddoppieremo,</hi> <hi rendition="uppercase">centuplicheremo il <name type="color">rosso</name></hi> <hi>del tricolore che vestiamo.</hi></p></div>
+			<div>
+				<p>Milano, 11 Settembre 1914.</p>
+				<p><name type="person">Giacomo Balla</name></p>
+				<p><name type="profession">pittore.</name></p></div>
+		</body>
+		<back resp="AC">
+			<div>
+				<p>Approvato entusiasticamente dalla Direzione del Movimento futurista e da tutti i Gruppi Futuristi italiani.</p>
+			</div>
+			<div>
+				<figure>
+					<graphic url="immagini/modificanti.jpg"/>
+					<figDesc>Modificanti guerreschi e festosi</figDesc>
+				</figure>
+			</div>
+			<pb n="4"/>
+			<div>
+				<figure>
+					<graphic url="immagini/vestitoCarrà.jpg"/>
+					<figDesc>vestito <name type="color">rosso</name> in un sol pezzo del <name type="profession">pittore</name> futurista <name type="person">Carrà</name></figDesc>
+				</figure>
+				<figure>
+					<graphic url="immagini/vestitoRussolo.jpg"/>
+					<figDesc>Maglione <name type="color">verde</name> e giacca <name type="color">rossa</name> e <name type="color">bianca</name> del <name type="profession">rumorista</name> futurista <name type="person">Russolo</name>, volontario ciclista</figDesc>
+				</figure>
+				<figure>
+					<graphic url="immagini/vestitoBoccioni.jpg"/>
+					<figDesc>Vestito <name type="color">bianco</name> - <name type="color">rosso</name> - <name type="color">verde</name> del <name type="profession">pittore e scultore</name> futurista <name type="person">Boccioni</name></figDesc>
+				</figure>
+			</div>
+		</back>
+	</text>
+
+</TEI>
